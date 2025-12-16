@@ -78,7 +78,7 @@ def format_large_number(num):
 
 # --- Streamlit App ---
 
-st.set_page_config(page_title="Stock Analyzer", layout="wide")
+st.set_page_config(page_title="Tejashv's Stock Analyzer", layout="wide")
 st.title('📈 Stock Data Analyzer')
 
 # Sidebar for user inputs
